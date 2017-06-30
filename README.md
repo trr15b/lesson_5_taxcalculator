@@ -13,8 +13,7 @@ Tristen Rogers
 The point of this project was to create a tax calculator that would give you an estimate of your taxes and which tax bracket you fall under.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://trr15b.github.io/lesson_5_taxcalculator/
 
 ### Lessons Learned in the Assignment:
 1. The use of an array and how to organize them in such away as to be able to call forth pieces of information based on thier tags.
